@@ -1,4 +1,5 @@
-et -euo pipefail
+set -euo pipefail
+
 
 # =========================
 # Debian/Ubuntu 一键安装 Docker + 同步时区/时间
